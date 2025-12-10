@@ -1,7 +1,7 @@
 
 
 const offset = 0
-const limit = 10
+const limit = 11
 const url = `https://pokeapi.co/api/v2/pokemon?offset=${offset}&limit=${limit}`
 
 function convertPokemonToLi (pokemon) {
@@ -31,7 +31,7 @@ fetch(url)
        
         for (let i = 0; i < pokemons.length; i++) {
             const pokemon = pokemons[i];
-            pokemonsList.innerHTML += convertPokemonToLi(pokemon)
+            pokemonList.innerHTML += convertPokemonToLi(pokemon)
         }
     })
     .catch((error) => console.error(error))
