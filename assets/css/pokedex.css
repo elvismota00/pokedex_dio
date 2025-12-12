@@ -22,7 +22,7 @@
     background-color: #678fee;
 }
 
-.eletric {
+.electric {
     background-color: #f7cf2e;
 }
 
@@ -144,7 +144,7 @@
     font-size: .625rem;
     background-color: #678fee;
     color: #fff;
-    border: none;
+    border: 0;
     border-radius: 1rem;
 }
 
