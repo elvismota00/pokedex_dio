@@ -7,3 +7,4 @@ para obter os dados em tempo real, garantindo informações atualizadas.
 Foi construída utilizando HTML, CSS e JavaScript, com foco em organização,
 consumo de APIs e criação de interfaces interativas.
 #
+<img width="1366" height="733" alt="Image" src="https://github.com/user-attachments/assets/a46682f1-4672-40be-9ecf-f82fd2afe021" />
